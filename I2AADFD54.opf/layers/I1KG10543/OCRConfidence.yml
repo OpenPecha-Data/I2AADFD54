@@ -1,0 +1,83 @@
+id: 8aa5978f757f455ea7d8f8d188b741d7
+annotation_type: OCRConfidence
+revision: '00001'
+annotations:
+  1b9c01dba2bf41ee93f1313c0a573aa3:
+    span:
+      start: 0
+      end: 781
+    confidence: 0.9341489406342202
+    nb_below_threshold: 17
+  acf56bedb4394c48bc2ae2f5d56272f4:
+    span:
+      start: 782
+      end: 876
+    confidence: 0.5711111095216539
+    nb_below_threshold: 18
+  73e1f8457c824577b3cc1e7ee358d0d7:
+    span:
+      start: 877
+      end: 2132
+    confidence: 0.6366666657715172
+    nb_below_threshold: 48
+  c3d71c8361bf411388b51123836c972c:
+    span:
+      start: 2133
+      end: 3443
+    confidence: 0.7376767688176848
+    nb_below_threshold: 83
+  b5de6430e71545718d777563b7442d66:
+    span:
+      start: 3444
+      end: 4898
+    confidence: 0.7168558949043397
+    nb_below_threshold: 143
+  1f282a545d0a4cf997cb7f664efd77d0:
+    span:
+      start: 4899
+      end: 6172
+    confidence: 0.7732911389085311
+    nb_below_threshold: 179
+  428675d400274b79a94726657767bc83:
+    span:
+      start: 6173
+      end: 7445
+    confidence: 0.7693007000155382
+    nb_below_threshold: 208
+  e5412f71652e401ea077c68e5007cdda:
+    span:
+      start: 7446
+      end: 8782
+    confidence: 0.8175757602760286
+    nb_below_threshold: 234
+  9b9f59560e084197ad9eacb331a5d48c:
+    span:
+      start: 8783
+      end: 10061
+    confidence: 0.7638364802553969
+    nb_below_threshold: 268
+  ee7758976e964ce9b2353e4339e9e65b:
+    span:
+      start: 10062
+      end: 11377
+    confidence: 0.6917488813533911
+    nb_below_threshold: 307
+  ec631ffa65b74f65a617884f627f3c9c:
+    span:
+      start: 11378
+      end: 12607
+    confidence: 0.7233128830150592
+    nb_below_threshold: 341
+  cef0a0a1c74d4fe992b51cd152722bfe:
+    span:
+      start: 12608
+      end: 13919
+    confidence: 0.800986842399365
+    nb_below_threshold: 369
+  b72ac66c636e47beb3bfc918d8867289:
+    span:
+      start: 13920
+      end: 15275
+    confidence: 0.7312658252783969
+    nb_below_threshold: 389
+confidence_threshold: 0.8
